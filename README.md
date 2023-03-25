@@ -18,11 +18,9 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 	
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) 
 
----
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzbagoissa&layout=compact)](https://github.com/Uzbagoissa/github-readme-stats)
 
----
 
 ### My сontacts
 [![Telegram](https://img.shields.io/badge/-Telegram-2aa8ea?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/Staszszs)](https://t.me/Staszszs)
