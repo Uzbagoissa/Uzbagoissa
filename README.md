@@ -18,7 +18,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) 	
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) 
 
-### My сontacts
+### My сontacts:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2aa8ea?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/Staszszs)](https://t.me/Staszszs)
 [![Habr](https://img.shields.io/badge/-Habr-7D4698?style=for-the-badge&logo=habr&logoColor=white&link=https://career.habr.com/uzbagoissa)](https://career.habr.com/uzbagoissa)
