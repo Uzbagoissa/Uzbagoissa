@@ -21,5 +21,9 @@
 
 ---
 
+## 🤙 My сontacts
+
+[![Telegram](https://img.shields.io/badge/-Stas-2aa8ea?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/Staszszs)](https://t.me/Staszszs)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzbagoissa&layout=compact)](https://github.com/Uzbagoissa/github-readme-stats)
 
