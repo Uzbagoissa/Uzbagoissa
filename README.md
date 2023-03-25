@@ -1,5 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&duration=3000&pause=6000&color=000000&background=53B1FFD4&center=true&vCenter=true&repeat=false&width=700&height=80&lines=Hi+there+%F0%9F%91%8B++My+name+is+Stanislav.+I'm+Java+developer)](https://git.io/typing-svg)
-
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=3000&pause=10000&color=000000&background=53B1FFD4&center=true&vCenter=true&width=1000&height=80&lines=Hi+there+%F0%9F%91%8B++My+name+is+Stanislav.+I'm+Java+developer)](https://git.io/typing-svg)
 ------
 
 💻 Tech Steck:
