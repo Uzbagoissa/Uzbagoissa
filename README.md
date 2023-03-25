@@ -22,3 +22,7 @@
 ---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzbagoissa&layout=compact)](https://github.com/Uzbagoissa/github-readme-stats)
+
+---
+
+![](https://komarev.com/ghpvc/?username=Uzbagoissa-username)
