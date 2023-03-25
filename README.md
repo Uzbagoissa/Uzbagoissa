@@ -1,4 +1,4 @@
-### Hi there 👋  My name is Stas. I'm Java developer
+### Hi there 👋  My name is Stanislav. I'm Java developer
 
 💻 Tech Steck:
 
