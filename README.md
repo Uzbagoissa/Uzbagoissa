@@ -19,7 +19,7 @@
 ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE) 
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
-### My сontacts:
+### My Contacts:
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2aa8ea?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/Staszszs)](https://t.me/Staszszs)
 [![Habr](https://img.shields.io/badge/-Habr-7D4698?style=for-the-badge&logo=habr&logoColor=white&link=https://career.habr.com/uzbagoissa)](https://career.habr.com/uzbagoissa)
