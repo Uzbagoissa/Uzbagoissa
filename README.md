@@ -23,7 +23,7 @@
 
 [![Telegram](https://img.shields.io/badge/-Telegram-2aa8ea?style=for-the-badge&logo=telegram&logoColor=white&link=https://t.me/Staszszs)](https://t.me/Staszszs)
 [![Habr](https://img.shields.io/badge/-Habr-7D4698?style=for-the-badge&logo=habr&logoColor=white&link=https://career.habr.com/uzbagoissa)](https://career.habr.com/uzbagoissa)
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D1%81%D0%BB%D0%B0%D0%B2-%D0%BA%D1%83%D1%87%D0%B5%D1%80%D1%8E%D0%BA-8592b690/)](https://www.linkedin.com/in/%D1%81%D1%82%D0%B0%D0%BD%D0%B8%D1%81%D0%BB%D0%B0%D0%B2-%D0%BA%D1%83%D1%87%D0%B5%D1%80%D1%8E%D0%BA-8592b690/)
+
 
 ---
 
